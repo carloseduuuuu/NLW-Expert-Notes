@@ -31,10 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - TypeScript
 - TailWind CSS
 - React.Js
+- Vite
 
 ## 💻 Projeto
 
-O Notes é um site que serve para criar e salva notas, podendo usar o microfone ou digitando. O site usa um API chamada speechRecognition para captura de voz, essa API possibilita que os usuários façam as notas por meio de comandos de voz.
+O Notes é um site que serve para criar e salva notas, podendo usar o microfone ou a digitação normal. O site usa um API chamada speechRecognition para captura de voz, essa API possibilita que os usuários façam as notas por meio de comandos de voz. Além disso o projeto também usa o Web Storage. 
 
 ## 🔖 Layout
 
