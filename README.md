@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, feito por mim para utilizar como portfólio <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="https://www.figma.com/file/t26xueZXqWiidcdtRkcRd0/NLW-expert-%E2%80%A2-Notes-(Community)?type=design&node-id=2104-673&mode=design&t=DoxWqD2tU2hzNYWl-4" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,20 +28,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
-- Git e Github
-- Figma
+- TypeScript
+- TailWind CSS
+- React.Js
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+O Notes é um site que serve para criar e salva notas, podendo usar o microfone ou digitando. O site usa um API chamada speechRecognition para captura de voz, essa API possibilita que os usuários façam as notas por meio de comandos de voz.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK]https://www.figma.com/file/vhBzWM3EO94HQhGkrcyTzD/NLW-expert-•-Notes-Community?type=design&is-community-duplicate=1&fuid=. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
