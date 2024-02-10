@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> NLW Expert - Notes </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, feito por mim para utilizar como portfólio <br/>
