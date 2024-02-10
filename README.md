@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, feito por mim para utilizar como portfólio <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto NLW Experts - Notes" src="https://www.figma.com/file/t26xueZXqWiidcdtRkcRd0/NLW-expert-%E2%80%A2-Notes-(Community)?type=design&node-id=2104-673&mode=design&t=DoxWqD2tU2hzNYWl-4" />
+  <img alt="projeto NLW Experts - Notes" src="./github/Thumbnail.jpg" />
 </p>
 
 ## 🚀 Tecnologias
