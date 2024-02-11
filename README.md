@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Notes é um site que serve para criar e salvar notas, podendo usar o microfone ou a digitação normal, além disso ele também tem um sistema de busca de notas, o projeto também conta com um sistema que exclui a nota se o usuário quiser. O site usa um API chamada speechRecognition para captura de voz, essa API possibilita que os usuários façam as notas por meio de comandos de voz. Além disso o projeto também usa o Web Storage. 
+O Notes é um site que serve para criar e salvar notas, podendo usar o microfone ou a digitação normal, além disso ele também tem um sistema de busca de notas, o projeto também conta com um sistema que exclui a nota se o usuário quiser. O site usa uma API chamada speechRecognition para captura de voz, essa API possibilita que os usuários façam as notas por meio de comandos de voz. Além disso o projeto também usa o Web Storage. 
 
 ## 🔖 Layout
 
